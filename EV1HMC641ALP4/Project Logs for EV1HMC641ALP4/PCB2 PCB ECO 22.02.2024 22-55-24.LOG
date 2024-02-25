@@ -1,0 +1,191 @@
+Added Component: Designator=C1(FP-C0402--IPC_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "1 íÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Ñ-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 Â"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(LFCSP 24 lead 4x4 mm)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.analog.com/en/products/hmc641alp4e.html?doc=hmc641alp4e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HMC641ALP4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "24-lead, 4 mm ? 4 mm LFCSP"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(pinHeader-M-2.54_1X1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yuandi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HDR-M-2.54_1X1"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(pinHeader-M-2.54_1X1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yuandi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HDR-M-2.54_1X1"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(pinHeader-M-2.54_1X1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yuandi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HDR-M-2.54_1X1"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(pinHeader-M-2.54_1X1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yuandi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HDR-M-2.54_1X1"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Component: Designator=XS4(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Component: Designator=XS5(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Component: Designator=XS6(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Component: Designator=XS7(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "901-10511-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=RFC Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=DD1-7
+Added Pin To Net: NetName=RF4 Pin=DD1-8
+Added Pin To Net: NetName=GND Pin=DD1-9
+Added Pin To Net: NetName=GND Pin=DD1-10
+Added Pin To Net: NetName=RF3 Pin=DD1-11
+Added Pin To Net: NetName=GND Pin=DD1-12
+Added Pin To Net: NetName=NetC1_1 Pin=DD1-14
+Added Pin To Net: NetName=CTLB Pin=DD1-15
+Added Pin To Net: NetName=CTLA Pin=DD1-16
+Added Pin To Net: NetName=GND Pin=DD1-17
+Added Pin To Net: NetName=GND Pin=DD1-19
+Added Pin To Net: NetName=RF2 Pin=DD1-20
+Added Pin To Net: NetName=GND Pin=DD1-21
+Added Pin To Net: NetName=GND Pin=DD1-22
+Added Pin To Net: NetName=RF1 Pin=DD1-23
+Added Pin To Net: NetName=GND Pin=DD1-24
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=GND Pin=DD1-25
+Added Pin To Net: NetName=NetC1_1 Pin=XP1-1
+Added Pin To Net: NetName=CTLA Pin=XP2-1
+Added Pin To Net: NetName=CTLB Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP4-1
+Added Pin To Net: NetName=RFC Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=NetXS2_1 Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=NetXS2_1 Pin=XS3-1
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=RF1 Pin=XS4-1
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=RF2 Pin=XS5-1
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=RF3 Pin=XS6-1
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=GND Pin=XS6-2
+Added Pin To Net: NetName=RF4 Pin=XS7-1
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS7-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Ñ-0402 1 íÔ 50 Â C0G TDK Corporation
+Added Member To Class: ClassName=Sheet1 Member=Component DD1 HMC641ALP4 Analog Devices
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 HDR-M-2.54_1X1 Yuandi
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 HDR-M-2.54_1X1 Yuandi
+Added Member To Class: ClassName=Sheet1 Member=Component XP3 HDR-M-2.54_1X1 Yuandi
+Added Member To Class: ClassName=Sheet1 Member=Component XP4 HDR-M-2.54_1X1 Yuandi
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 901-10511-2 Amphenol RF
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 901-10511-2 Amphenol RF
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 901-10511-2 Amphenol RF
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 901-10511-2 Amphenol RF
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 901-10511-2 Amphenol RF
+Added Member To Class: ClassName=Sheet1 Member=Component XS6 901-10511-2 Amphenol RF
+Added Member To Class: ClassName=Sheet1 Member=Component XS7 901-10511-2 Amphenol RF
