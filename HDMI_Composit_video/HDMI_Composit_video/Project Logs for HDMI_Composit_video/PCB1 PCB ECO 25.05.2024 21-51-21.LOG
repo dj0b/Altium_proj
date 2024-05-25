@@ -1,0 +1,1190 @@
+Added Component: Designator=C1(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C10(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C11(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C12(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C13(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C14(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C15(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C16(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C17(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C18(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C19(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C20(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C21(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C22(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C23(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C24(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C25(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C26(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C27(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C28(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C29(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C37(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C38(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C39(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C40(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0603C100F4HAC7867/7945991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0603C100F4HAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C41(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C42(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C43(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C44(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0603C100F4HAC7867/7945991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0603C100F4HAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C45(1206)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/C3216X5R1E336M160AC/2792259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C3216X5R1E336M160AC"; VariantName = "[No Variations]"
+Added Component: Designator=C46(1206)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/C3216X5R1E336M160AC/2792259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C3216X5R1E336M160AC"; VariantName = "[No Variations]"
+Added Component: Designator=C47(1206)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/C3216X5R1E336M160AC/2792259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C3216X5R1E336M160AC"; VariantName = "[No Variations]"
+Added Component: Designator=C48(1206)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/C3216X5R1E336M160AC/2792259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C3216X5R1E336M160AC"; VariantName = "[No Variations]"
+Added Component: Designator=C49(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C50(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C51(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C52(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C57(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C58(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C59(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C60(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C61(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C103K4RAC7867/411040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C103K4RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C63(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C64(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C222K3RAC7867/411035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C222K3RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C65(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C122J5GAC7867/3316991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор C0402C222K3RAC7867"; VariantName = "[No Variations]"
+Added Component: Designator=C66(FP-C0402-BB-IPC_A)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/CGA2B1X7R1V154K050BC/4931436"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CGA2B1X7R1V154K050BC"; VariantName = "[No Variations]"
+Added Component: Designator=C68(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C69(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C72(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C73(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C74(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777?s=N4IgTCBcDaIMIBkCMAGAgqgbAWQIoA4A5YuEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106MQ8NNNC?qs=349EhDEZ59qlB6a%2FjjeGAg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CL10A106MQ8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(WLCSP4_P6XP6_ONS)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AFCS180T2G/5404494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AFCS180T2G"; VariantName = "[No Variations]"
+Added Component: Designator=DA2(WLCSP4_P6XP6_ONS)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AFCS180T2G/5404494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AFCS180T2G"; VariantName = "[No Variations]"
+Added Component: Designator=DA3(WLCSP4_P6XP6_ONS)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AFCS330T2G/5404499?s=N4IgTCBcDaIHIGEAKBGAbCgggMQQZQGYCAGAFTAHEQBdAXyA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AFCS330T2G"; VariantName = "[No Variations]"
+Added Component: Designator=DA4(WLCSP4_P6XP6_ONS)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AFCS180T2G/5404494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AFCS180T2G"; VariantName = "[No Variations]"
+Added Component: Designator=DA5(WLCSP4_P6XP6_ONS)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AFCS180T2G/5404494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AFCS180T2G"; VariantName = "[No Variations]"
+Added Component: Designator=DA6(WLCSP4_P6XP6_ONS)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AFCS330T2G/5404499?s=N4IgTCBcDaIHIGEAKBGAbCgggMQQZQGYCAGAFTAHEQBdAXyA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AFCS330T2G"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(UFQFPN28-4x4mm)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/STM8L151G6U6TR/2529374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема STM8L151G6U6TR"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(ADI-SW-64-2_N)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.win-source.net/products/detail/analog-devices-inc/adv7611bswz-rl.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.heisener.com/ProductDetail/ADV7611BSWZ-RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = "https://octopart.com/adv7611bswz-rl-analog+devices-22024330?r=sp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема ADV7611BSWZ-RL"; VariantName = "[No Variations]"
+Added Component: Designator=DD3(ADI-CP-40-1_N)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/analog-devices-inc/ADV7393WBCPZ-REEL/6163897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема ADV7393WBCPZ-REEL"; VariantName = "[No Variations]"
+Added Component: Designator=DD4(CP_20_4_ADI)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/analog-devices-inc/SSM2604CPZ-REEL7/1944265?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsI%2BAnCALoC%2B%2BMN0IKkGO%2BRkpEDjEAl4gAyqICycAGwAGACx16QA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://eu.mouser.com/ProductDetail/Analog-Devices/SSM2604CPZ-REEL7?qs=WIvQP4zGanjzkHQKJZeKuA%3D%3D&utm_source=octopart&utm_medium=aggregator&utm_campaign=584-SSM2604CPZ-R7&utm_content=Analog+Devices+Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема SSM2604CPZ-REEL7"; VariantName = "[No Variations]"
+Added Component: Designator=HL1(LED_0805_G)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/liteon/LTST-C170GKT/269226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Світлодіод TJ-S3216SW9TGLC7K-A5"; VariantName = "[No Variations]"
+Added Component: Designator=L1(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L3(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L5(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L6(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L7(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L8(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L9(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L10(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L11(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L12(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L13(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1002X/192073"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF5100X/1746240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF5100X"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF4701X/1746231?s=N4IgTCBcDaIKICUBSBaMCDSAxALAdgAYBGADRAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF4701X"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF4701X/1746231?s=N4IgTCBcDaIKICUBSBaMCDSAxALAdgAYBGADRAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF4701X"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1003X/192081"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1003X"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1002X/192073"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1001X/79729"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF5100X/1746240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF5100X"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1690X/192166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "169"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1690X"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GEJ750X/147072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2GEJ750X"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1000X/192080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1000X"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1000X/192080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1000X"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GEJ750X/147072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2GEJ750X"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GEJ750X/147072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2GEJ750X"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1000X/192080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1000X"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1000X/192080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1000X"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF4702X/1746233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF4702X"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF4702X/1746233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF4702X"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(SB1206)
+Add component (AddParameter): Name = "Supplier link 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT1(FAIR-SOT-563F-6-A_V)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/fdy3000nz/1923009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Транзистор FDY3000NZ"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(SM08B-GHS-TB)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM08B-GHS-TB/807792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм SM08B-GHS-TB"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(CON_5051102091_MOL)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/molex/5051102091/5254655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм 5051102091"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(685119136923)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/685119136923/2508508"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм 685119136923"; VariantName = "[No Variations]"
+Added Component: Designator=XS4(SM08B-GHS-TB)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM08B-GHS-TB/807792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм SM08B-GHS-TB"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ1(FP-ABM11-MFG)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/abracon-llc/ABM11-28-63636MHZ-D2X-T3/2623744?_gl=1*z1352j*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Кварц ABM11-28.63636MHZ-D2X-T3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1.8V_ LVR_1 Pin=C21-2
+Added Pin To Net: NetName=+1.8V_ LVR_1 Pin=DA2-A2
+Added Pin To Net: NetName=+1.8V_ LVR_1 Pin=L6-2
+Added Pin To Net: NetName=+1.8V_ LVR_1 Pin=L7-2
+Added Net: Name=+1.8V_ LVR_1
+Added Pin To Net: NetName=+1.8V_ LVR_2 Pin=C42-2
+Added Pin To Net: NetName=+1.8V_ LVR_2 Pin=C48-2
+Added Pin To Net: NetName=+1.8V_ LVR_2 Pin=DA5-A2
+Added Pin To Net: NetName=+1.8V_ LVR_2 Pin=L11-1
+Added Net: Name=+1.8V_ LVR_2
+Added Pin To Net: NetName=+1.8V_PVDD_1 Pin=C20-2
+Added Pin To Net: NetName=+1.8V_PVDD_1 Pin=DA1-A2
+Added Pin To Net: NetName=+1.8V_PVDD_1 Pin=L5-2
+Added Net: Name=+1.8V_PVDD_1
+Added Pin To Net: NetName=+1.8V_ PVDD_2 Pin=C41-2
+Added Pin To Net: NetName=+1.8V_ PVDD_2 Pin=C46-2
+Added Pin To Net: NetName=+1.8V_ PVDD_2 Pin=DA4-A2
+Added Pin To Net: NetName=+1.8V_ PVDD_2 Pin=L9-1
+Added Net: Name=+1.8V_ PVDD_2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=C22-2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=C45-2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=DA3-A2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=L1-1
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=L2-1
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=L3-1
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=L8-1
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=L12-2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=L13-2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=R12-2
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=VT1-5
+Added Net: Name=+3.3V_LVR_1
+Added Pin To Net: NetName=+3.3V_LVR_A Pin=C43-2
+Added Pin To Net: NetName=+3.3V_LVR_A Pin=C47-2
+Added Pin To Net: NetName=+3.3V_LVR_A Pin=DA6-A2
+Added Pin To Net: NetName=+3.3V_LVR_A Pin=L10-1
+Added Net: Name=+3.3V_LVR_A
+Added Pin To Net: NetName=+5V_in Pin=C17-2
+Added Pin To Net: NetName=+5V_in Pin=C18-2
+Added Pin To Net: NetName=+5V_in Pin=C19-2
+Added Pin To Net: NetName=+5V_in Pin=C37-2
+Added Pin To Net: NetName=+5V_in Pin=C38-2
+Added Pin To Net: NetName=+5V_in Pin=C39-2
+Added Pin To Net: NetName=+5V_in Pin=DA1-A1
+Added Pin To Net: NetName=+5V_in Pin=DA1-B1
+Added Pin To Net: NetName=+5V_in Pin=DA2-A1
+Added Pin To Net: NetName=+5V_in Pin=DA2-B1
+Added Pin To Net: NetName=+5V_in Pin=DA3-A1
+Added Pin To Net: NetName=+5V_in Pin=DA3-B1
+Added Pin To Net: NetName=+5V_in Pin=DA4-A1
+Added Pin To Net: NetName=+5V_in Pin=DA4-B1
+Added Pin To Net: NetName=+5V_in Pin=DA5-A1
+Added Pin To Net: NetName=+5V_in Pin=DA5-B1
+Added Pin To Net: NetName=+5V_in Pin=DA6-A1
+Added Pin To Net: NetName=+5V_in Pin=DA6-B1
+Added Pin To Net: NetName=+5V_in Pin=L4-2
+Added Pin To Net: NetName=+5V_in Pin=XS1-3
+Added Pin To Net: NetName=+5V_in Pin=XS1-4
+Added Net: Name=+5V_in
+Added Pin To Net: NetName=+5V Power Pin=DD2-64
+Added Pin To Net: NetName=+5V Power Pin=R5-2
+Added Pin To Net: NetName=+5V Power Pin=R7-1
+Added Pin To Net: NetName=+5V Power Pin=XS2-18
+Added Pin To Net: NetName=+5V Power Pin=XS3-18
+Added Net: Name=+5V Power
+Added Pin To Net: NetName=5V_out Pin=C1-2
+Added Pin To Net: NetName=5V_out Pin=C2-2
+Added Pin To Net: NetName=5V_out Pin=L4-1
+Added Pin To Net: NetName=5V_out Pin=XS4-4
+Added Net: Name=5V_out
+Added Pin To Net: NetName=AGND Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C51-1
+Added Pin To Net: NetName=AGND Pin=C60-1
+Added Pin To Net: NetName=AGND Pin=C63-1
+Added Pin To Net: NetName=AGND Pin=C73-2
+Added Pin To Net: NetName=AGND Pin=C74-1
+Added Pin To Net: NetName=AGND Pin=DD3-24
+Added Pin To Net: NetName=AGND Pin=DD3-41
+Added Pin To Net: NetName=AGND Pin=DD4-14
+Added Pin To Net: NetName=AGND Pin=R9-2
+Added Pin To Net: NetName=AGND Pin=R11-1
+Added Pin To Net: NetName=AGND Pin=R14-1
+Added Pin To Net: NetName=AGND Pin=R15-1
+Added Pin To Net: NetName=AGND Pin=R18-1
+Added Pin To Net: NetName=AGND Pin=R19-1
+Added Pin To Net: NetName=AGND Pin=XS4-1
+Added Pin To Net: NetName=AGND Pin=XS4-3
+Added Pin To Net: NetName=AGND Pin=XS4-5
+Added Pin To Net: NetName=AGND Pin=XS4-7
+Added Pin To Net: NetName=AGND Pin=XS4-M
+Added Pin To Net: NetName=AGND Pin=XS4-M
+Added Net: Name=AGND
+Added Pin To Net: NetName=CEC Pin=DD2-61
+Added Pin To Net: NetName=CEC Pin=XS2-14
+Added Pin To Net: NetName=CEC Pin=XS3-14
+Added Net: Name=CEC
+Added Pin To Net: NetName=CV_out Pin=DD3-28
+Added Pin To Net: NetName=CV_out Pin=R15-2
+Added Pin To Net: NetName=CV_out Pin=XS4-2
+Added Net: Name=CV_out
+Added Pin To Net: NetName=CVDD1 Pin=C23-2
+Added Pin To Net: NetName=CVDD1 Pin=C24-2
+Added Pin To Net: NetName=CVDD1 Pin=DD2-2
+Added Pin To Net: NetName=CVDD1 Pin=DD2-14
+Added Pin To Net: NetName=CVDD1 Pin=L6-1
+Added Net: Name=CVDD1
+Added Pin To Net: NetName=DGND1 Pin=C10-1
+Added Pin To Net: NetName=DGND1 Pin=C11-1
+Added Pin To Net: NetName=DGND1 Pin=C12-1
+Added Pin To Net: NetName=DGND1 Pin=C13-1
+Added Pin To Net: NetName=DGND1 Pin=C14-1
+Added Pin To Net: NetName=DGND1 Pin=C15-1
+Added Pin To Net: NetName=DGND1 Pin=C16-1
+Added Pin To Net: NetName=DGND1 Pin=C17-1
+Added Pin To Net: NetName=DGND1 Pin=C18-1
+Added Pin To Net: NetName=DGND1 Pin=C19-1
+Added Pin To Net: NetName=DGND1 Pin=C20-1
+Added Pin To Net: NetName=DGND1 Pin=C21-1
+Added Pin To Net: NetName=DGND1 Pin=C22-1
+Added Pin To Net: NetName=DGND1 Pin=C23-1
+Added Pin To Net: NetName=DGND1 Pin=C24-1
+Added Pin To Net: NetName=DGND1 Pin=C25-1
+Added Pin To Net: NetName=DGND1 Pin=C26-1
+Added Pin To Net: NetName=DGND1 Pin=C27-1
+Added Pin To Net: NetName=DGND1 Pin=C28-1
+Added Pin To Net: NetName=DGND1 Pin=C29-1
+Added Pin To Net: NetName=DGND1 Pin=C37-1
+Added Pin To Net: NetName=DGND1 Pin=C38-1
+Added Pin To Net: NetName=DGND1 Pin=C39-1
+Added Pin To Net: NetName=DGND1 Pin=C40-1
+Added Pin To Net: NetName=DGND1 Pin=C41-1
+Added Pin To Net: NetName=DGND1 Pin=C42-1
+Added Pin To Net: NetName=DGND1 Pin=C43-1
+Added Pin To Net: NetName=DGND1 Pin=C44-1
+Added Pin To Net: NetName=DGND1 Pin=C45-1
+Added Pin To Net: NetName=DGND1 Pin=C46-1
+Added Pin To Net: NetName=DGND1 Pin=C47-1
+Added Pin To Net: NetName=DGND1 Pin=C48-1
+Added Pin To Net: NetName=DGND1 Pin=C49-1
+Added Pin To Net: NetName=DGND1 Pin=C50-1
+Added Pin To Net: NetName=DGND1 Pin=C52-1
+Added Pin To Net: NetName=DGND1 Pin=C58-1
+Added Pin To Net: NetName=DGND1 Pin=C59-1
+Added Pin To Net: NetName=DGND1 Pin=C61-1
+Added Pin To Net: NetName=DGND1 Pin=C72-1
+Added Pin To Net: NetName=DGND1 Pin=DA1-B2
+Added Pin To Net: NetName=DGND1 Pin=DA2-B2
+Added Pin To Net: NetName=DGND1 Pin=DA3-B2
+Added Pin To Net: NetName=DGND1 Pin=DA4-B2
+Added Pin To Net: NetName=DGND1 Pin=DA5-B2
+Added Pin To Net: NetName=DGND1 Pin=DA6-B2
+Added Pin To Net: NetName=DGND1 Pin=DD1-6
+Added Pin To Net: NetName=DGND1 Pin=DD2-65
+Added Pin To Net: NetName=DGND1 Pin=DD3-7
+Added Pin To Net: NetName=DGND1 Pin=DD3-21
+Added Pin To Net: NetName=DGND1 Pin=DD3-40
+Added Pin To Net: NetName=DGND1 Pin=DD4-3
+Added Pin To Net: NetName=DGND1 Pin=R2-2
+Added Pin To Net: NetName=DGND1 Pin=R6-1
+Added Pin To Net: NetName=DGND1 Pin=R13-2
+Added Pin To Net: NetName=DGND1 Pin=SB1-1
+Added Pin To Net: NetName=DGND1 Pin=VT1-1
+Added Pin To Net: NetName=DGND1 Pin=VT1-4
+Added Pin To Net: NetName=DGND1 Pin=XS1-1
+Added Pin To Net: NetName=DGND1 Pin=XS1-2
+Added Pin To Net: NetName=DGND1 Pin=XS1-M
+Added Pin To Net: NetName=DGND1 Pin=XS1-M
+Added Pin To Net: NetName=DGND1 Pin=XS2-1
+Added Pin To Net: NetName=DGND1 Pin=XS2-4
+Added Pin To Net: NetName=DGND1 Pin=XS2-7
+Added Pin To Net: NetName=DGND1 Pin=XS2-10
+Added Pin To Net: NetName=DGND1 Pin=XS2-13
+Added Pin To Net: NetName=DGND1 Pin=XS2-20
+Added Pin To Net: NetName=DGND1 Pin=XS3-1
+Added Pin To Net: NetName=DGND1 Pin=XS3-4
+Added Pin To Net: NetName=DGND1 Pin=XS3-7
+Added Pin To Net: NetName=DGND1 Pin=XS3-10
+Added Pin To Net: NetName=DGND1 Pin=XS3-13
+Added Pin To Net: NetName=DGND1 Pin=XS3-Shell
+Added Pin To Net: NetName=DGND1 Pin=XS3-Shell
+Added Pin To Net: NetName=DGND1 Pin=XS3-Shell
+Added Pin To Net: NetName=DGND1 Pin=XS3-Shell
+Added Pin To Net: NetName=DGND1 Pin=ZQ1-3
+Added Pin To Net: NetName=DGND1 Pin=ZQ1-4
+Added Net: Name=DGND1
+Added Pin To Net: NetName=DGND2 Pin=C57-1
+Added Pin To Net: NetName=DGND2 Pin=DD3-36
+Added Net: Name=DGND2
+Added Pin To Net: NetName=DVDD1 Pin=C25-2
+Added Pin To Net: NetName=DVDD1 Pin=C26-2
+Added Pin To Net: NetName=DVDD1 Pin=C27-2
+Added Pin To Net: NetName=DVDD1 Pin=C28-2
+Added Pin To Net: NetName=DVDD1 Pin=DD2-24
+Added Pin To Net: NetName=DVDD1 Pin=DD2-40
+Added Pin To Net: NetName=DVDD1 Pin=DD2-52
+Added Pin To Net: NetName=DVDD1 Pin=DD2-60
+Added Pin To Net: NetName=DVDD1 Pin=L7-1
+Added Net: Name=DVDD1
+Added Pin To Net: NetName=DVDDIO1 Pin=C14-2
+Added Pin To Net: NetName=DVDDIO1 Pin=C15-2
+Added Pin To Net: NetName=DVDDIO1 Pin=C16-2
+Added Pin To Net: NetName=DVDDIO1 Pin=DD2-23
+Added Pin To Net: NetName=DVDDIO1 Pin=DD2-34
+Added Pin To Net: NetName=DVDDIO1 Pin=DD2-44
+Added Pin To Net: NetName=DVDDIO1 Pin=L3-2
+Added Net: Name=DVDDIO1
+Added Pin To Net: NetName=Hot Plug Detect / HEAC- Pin=DD2-1
+Added Pin To Net: NetName=Hot Plug Detect / HEAC- Pin=R7-2
+Added Pin To Net: NetName=Hot Plug Detect / HEAC- Pin=VT1-6
+Added Pin To Net: NetName=Hot Plug Detect / HEAC- Pin=XS2-19
+Added Pin To Net: NetName=Hot Plug Detect / HEAC- Pin=XS3-19
+Added Net: Name=Hot Plug Detect / HEAC-
+Added Pin To Net: NetName=HS Pin=DD2-46
+Added Pin To Net: NetName=HS Pin=DD3-33
+Added Net: Name=HS
+Added Pin To Net: NetName=I2C_SCL Pin=DD1-22
+Added Pin To Net: NetName=I2C_SCL Pin=DD2-53
+Added Pin To Net: NetName=I2C_SCL Pin=DD3-14
+Added Pin To Net: NetName=I2C_SCL Pin=DD4-18
+Added Pin To Net: NetName=I2C_SCL Pin=R4-1
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=DD1-21
+Added Pin To Net: NetName=I2C_SDA Pin=DD2-54
+Added Pin To Net: NetName=I2C_SDA Pin=DD3-13
+Added Pin To Net: NetName=I2C_SDA Pin=DD4-19
+Added Pin To Net: NetName=I2C_SDA Pin=R3-1
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=I2S Pin=DD2-48
+Added Pin To Net: NetName=I2S Pin=DD4-7
+Added Net: Name=I2S
+Added Pin To Net: NetName=LED1 Pin=DD1-25
+Added Pin To Net: NetName=LED1 Pin=HL1-2
+Added Net: Name=LED1
+Added Pin To Net: NetName=LLC Pin=DD2-25
+Added Pin To Net: NetName=LLC Pin=DD3-19
+Added Net: Name=LLC
+Added Pin To Net: NetName=Lout Pin=R16-2
+Added Pin To Net: NetName=Lout Pin=XS4-6
+Added Net: Name=Lout
+Added Pin To Net: NetName=LRCLK Pin=DD2-50
+Added Pin To Net: NetName=LRCLK Pin=DD4-8
+Added Net: Name=LRCLK
+Added Pin To Net: NetName=MCLK Pin=DD2-51
+Added Pin To Net: NetName=MCLK Pin=DD4-1
+Added Net: Name=MCLK
+Added Pin To Net: NetName=MCU_VDD Pin=C10-2
+Added Pin To Net: NetName=MCU_VDD Pin=DD1-7
+Added Pin To Net: NetName=MCU_VDD Pin=L1-2
+Added Pin To Net: NetName=MCU_VDD Pin=R1-1
+Added Pin To Net: NetName=MCU_VDD Pin=R3-2
+Added Pin To Net: NetName=MCU_VDD Pin=R4-2
+Added Net: Name=MCU_VDD
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=DD2-58
+Added Pin To Net: NetName=NetC40_2 Pin=ZQ1-1
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=DD2-59
+Added Pin To Net: NetName=NetC44_2 Pin=ZQ1-3
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetC64_2 Pin=C64-2
+Added Pin To Net: NetName=NetC64_2 Pin=DD3-29
+Added Net: Name=NetC64_2
+Added Pin To Net: NetName=NetC65_1 Pin=C65-1
+Added Pin To Net: NetName=NetC65_1 Pin=DD3-22
+Added Pin To Net: NetName=NetC65_1 Pin=R10-1
+Added Net: Name=NetC65_1
+Added Pin To Net: NetName=NetC66_1 Pin=C66-1
+Added Pin To Net: NetName=NetC66_1 Pin=R10-2
+Added Net: Name=NetC66_1
+Added Pin To Net: NetName=NetC67_2 Pin=C72-2
+Added Pin To Net: NetName=NetC67_2 Pin=DD4-4
+Added Pin To Net: NetName=NetC67_2 Pin=L13-1
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC68_1 Pin=C68-1
+Added Pin To Net: NetName=NetC68_1 Pin=R16-1
+Added Pin To Net: NetName=NetC68_1 Pin=R18-2
+Added Net: Name=NetC68_1
+Added Pin To Net: NetName=NetC68_2 Pin=C68-2
+Added Pin To Net: NetName=NetC68_2 Pin=DD4-11
+Added Net: Name=NetC68_2
+Added Pin To Net: NetName=NetC69_1 Pin=C69-1
+Added Pin To Net: NetName=NetC69_1 Pin=R17-1
+Added Pin To Net: NetName=NetC69_1 Pin=R19-2
+Added Net: Name=NetC69_1
+Added Pin To Net: NetName=NetC69_2 Pin=C69-2
+Added Pin To Net: NetName=NetC69_2 Pin=DD4-12
+Added Net: Name=NetC69_2
+Added Pin To Net: NetName=NetC70_1 Pin=C73-1
+Added Pin To Net: NetName=NetC70_1 Pin=DD4-15
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetC71_2 Pin=C74-2
+Added Pin To Net: NetName=NetC71_2 Pin=DD4-13
+Added Pin To Net: NetName=NetC71_2 Pin=L12-1
+Added Net: Name=NetC71_2
+Added Pin To Net: NetName=NetDD3_12 Pin=DD3-12
+Added Pin To Net: NetName=NetDD3_12 Pin=R12-1
+Added Pin To Net: NetName=NetDD3_12 Pin=R13-1
+Added Net: Name=NetDD3_12
+Added Pin To Net: NetName=NetDD3_26 Pin=DD3-26
+Added Pin To Net: NetName=NetDD3_26 Pin=R11-2
+Added Net: Name=NetDD3_26
+Added Pin To Net: NetName=NetDD3_27 Pin=DD3-27
+Added Pin To Net: NetName=NetDD3_27 Pin=R14-2
+Added Net: Name=NetDD3_27
+Added Pin To Net: NetName=NetDD3_30 Pin=DD3-30
+Added Pin To Net: NetName=NetDD3_30 Pin=R9-1
+Added Net: Name=NetDD3_30
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_1 Pin=R2-1
+Added Net: Name=NetHL1_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=VT1-2
+Added Pin To Net: NetName=NetR5_1 Pin=VT1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=P0 Pin=DD2-43
+Added Pin To Net: NetName=P0 Pin=DD3-34
+Added Net: Name=P0
+Added Pin To Net: NetName=P1 Pin=DD2-42
+Added Pin To Net: NetName=P1 Pin=DD3-37
+Added Net: Name=P1
+Added Pin To Net: NetName=P2 Pin=DD2-41
+Added Pin To Net: NetName=P2 Pin=DD3-38
+Added Net: Name=P2
+Added Pin To Net: NetName=P3 Pin=DD2-39
+Added Pin To Net: NetName=P3 Pin=DD3-39
+Added Net: Name=P3
+Added Pin To Net: NetName=P4 Pin=DD2-38
+Added Pin To Net: NetName=P4 Pin=DD3-2
+Added Net: Name=P4
+Added Pin To Net: NetName=P5 Pin=DD2-37
+Added Pin To Net: NetName=P5 Pin=DD3-3
+Added Net: Name=P5
+Added Pin To Net: NetName=P6 Pin=DD2-36
+Added Pin To Net: NetName=P6 Pin=DD3-4
+Added Net: Name=P6
+Added Pin To Net: NetName=P7 Pin=DD2-35
+Added Pin To Net: NetName=P7 Pin=DD3-5
+Added Net: Name=P7
+Added Pin To Net: NetName=P8 Pin=DD2-33
+Added Pin To Net: NetName=P8 Pin=DD3-8
+Added Net: Name=P8
+Added Pin To Net: NetName=P9 Pin=DD2-32
+Added Pin To Net: NetName=P9 Pin=DD3-9
+Added Net: Name=P9
+Added Pin To Net: NetName=P10 Pin=DD2-31
+Added Pin To Net: NetName=P10 Pin=DD3-10
+Added Net: Name=P10
+Added Pin To Net: NetName=P11 Pin=DD2-30
+Added Pin To Net: NetName=P11 Pin=DD3-11
+Added Net: Name=P11
+Added Pin To Net: NetName=P12 Pin=DD2-29
+Added Pin To Net: NetName=P12 Pin=DD3-15
+Added Net: Name=P12
+Added Pin To Net: NetName=P13 Pin=DD2-28
+Added Pin To Net: NetName=P13 Pin=DD3-16
+Added Net: Name=P13
+Added Pin To Net: NetName=P14 Pin=DD2-27
+Added Pin To Net: NetName=P14 Pin=DD3-17
+Added Net: Name=P14
+Added Pin To Net: NetName=P15 Pin=DD2-26
+Added Pin To Net: NetName=P15 Pin=DD3-18
+Added Net: Name=P15
+Added Pin To Net: NetName=PVDD1 Pin=C29-2
+Added Pin To Net: NetName=PVDD1 Pin=DD2-57
+Added Pin To Net: NetName=PVDD1 Pin=L5-1
+Added Net: Name=PVDD1
+Added Pin To Net: NetName=PVDD2 Pin=C50-2
+Added Pin To Net: NetName=PVDD2 Pin=C59-2
+Added Pin To Net: NetName=PVDD2 Pin=C65-2
+Added Pin To Net: NetName=PVDD2 Pin=C66-2
+Added Pin To Net: NetName=PVDD2 Pin=DD3-23
+Added Pin To Net: NetName=PVDD2 Pin=L9-2
+Added Net: Name=PVDD2
+Added Pin To Net: NetName=RESET_ADV7393 Pin=DD1-13
+Added Pin To Net: NetName=RESET_ADV7393 Pin=DD3-20
+Added Net: Name=RESET_ADV7393
+Added Pin To Net: NetName=RESET_ADV7611 Pin=DD1-12
+Added Pin To Net: NetName=RESET_ADV7611 Pin=DD2-56
+Added Net: Name=RESET_ADV7611
+Added Pin To Net: NetName=Rout Pin=R17-2
+Added Pin To Net: NetName=Rout Pin=XS4-8
+Added Net: Name=Rout
+Added Pin To Net: NetName=SCLK Pin=DD2-49
+Added Pin To Net: NetName=SCLK Pin=DD4-6
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SCL Pin=DD2-62
+Added Pin To Net: NetName=SCL Pin=R6-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=Select Pin=DD1-23
+Added Pin To Net: NetName=Select Pin=R1-2
+Added Pin To Net: NetName=Select Pin=SB1-2
+Added Net: Name=Select
+Added Pin To Net: NetName=SR_reset Pin=DD1-1
+Added Pin To Net: NetName=SR_reset Pin=XS1-8
+Added Net: Name=SR_reset
+Added Pin To Net: NetName=SWIM Pin=DD1-28
+Added Pin To Net: NetName=SWIM Pin=XS1-7
+Added Net: Name=SWIM
+Added Pin To Net: NetName=TMDS Clock_N Pin=DD2-3
+Added Pin To Net: NetName=TMDS Clock_N Pin=XS2-12
+Added Pin To Net: NetName=TMDS Clock_N Pin=XS3-12
+Added Net: Name=TMDS Clock_N
+Added Pin To Net: NetName=TMDS Clock_P Pin=DD2-4
+Added Pin To Net: NetName=TMDS Clock_P Pin=XS2-11
+Added Pin To Net: NetName=TMDS Clock_P Pin=XS3-11
+Added Net: Name=TMDS Clock_P
+Added Pin To Net: NetName=TMDS Data0_N Pin=DD2-6
+Added Pin To Net: NetName=TMDS Data0_N Pin=XS2-9
+Added Pin To Net: NetName=TMDS Data0_N Pin=XS3-9
+Added Net: Name=TMDS Data0_N
+Added Pin To Net: NetName=TMDS Data0_P Pin=DD2-7
+Added Pin To Net: NetName=TMDS Data0_P Pin=XS2-8
+Added Pin To Net: NetName=TMDS Data0_P Pin=XS3-8
+Added Net: Name=TMDS Data0_P
+Added Pin To Net: NetName=TMDS Data1_N Pin=DD2-9
+Added Pin To Net: NetName=TMDS Data1_N Pin=XS2-6
+Added Pin To Net: NetName=TMDS Data1_N Pin=XS3-6
+Added Net: Name=TMDS Data1_N
+Added Pin To Net: NetName=TMDS Data1_P Pin=DD2-10
+Added Pin To Net: NetName=TMDS Data1_P Pin=XS2-5
+Added Pin To Net: NetName=TMDS Data1_P Pin=XS3-5
+Added Net: Name=TMDS Data1_P
+Added Pin To Net: NetName=TMDS Data2_N Pin=DD2-12
+Added Pin To Net: NetName=TMDS Data2_N Pin=XS2-3
+Added Pin To Net: NetName=TMDS Data2_N Pin=XS3-3
+Added Net: Name=TMDS Data2_N
+Added Pin To Net: NetName=TMDS Data2_P Pin=DD2-13
+Added Pin To Net: NetName=TMDS Data2_P Pin=XS2-2
+Added Pin To Net: NetName=TMDS Data2_P Pin=XS3-2
+Added Net: Name=TMDS Data2_P
+Added Pin To Net: NetName=TVDD1 Pin=C11-2
+Added Pin To Net: NetName=TVDD1 Pin=C12-2
+Added Pin To Net: NetName=TVDD1 Pin=C13-2
+Added Pin To Net: NetName=TVDD1 Pin=DD2-5
+Added Pin To Net: NetName=TVDD1 Pin=DD2-8
+Added Pin To Net: NetName=TVDD1 Pin=DD2-11
+Added Pin To Net: NetName=TVDD1 Pin=L2-2
+Added Net: Name=TVDD1
+Added Pin To Net: NetName=UART1_RX Pin=DD1-3
+Added Pin To Net: NetName=UART1_RX Pin=XS1-6
+Added Net: Name=UART1_RX
+Added Pin To Net: NetName=UART1_TX Pin=DD1-2
+Added Pin To Net: NetName=UART1_TX Pin=XS1-5
+Added Net: Name=UART1_TX
+Added Pin To Net: NetName=VAA Pin=C51-2
+Added Pin To Net: NetName=VAA Pin=C60-2
+Added Pin To Net: NetName=VAA Pin=C63-2
+Added Pin To Net: NetName=VAA Pin=C64-1
+Added Pin To Net: NetName=VAA Pin=DD3-25
+Added Pin To Net: NetName=VAA Pin=L10-2
+Added Net: Name=VAA
+Added Pin To Net: NetName=VDD1 Pin=C52-2
+Added Pin To Net: NetName=VDD1 Pin=C57-2
+Added Pin To Net: NetName=VDD1 Pin=C61-2
+Added Pin To Net: NetName=VDD1 Pin=DD3-6
+Added Pin To Net: NetName=VDD1 Pin=DD3-35
+Added Pin To Net: NetName=VDD1 Pin=L11-2
+Added Net: Name=VDD1
+Added Pin To Net: NetName=VDD_IO Pin=C49-2
+Added Pin To Net: NetName=VDD_IO Pin=C58-2
+Added Pin To Net: NetName=VDD_IO Pin=DD3-1
+Added Pin To Net: NetName=VDD_IO Pin=L8-2
+Added Net: Name=VDD_IO
+Added Pin To Net: NetName=VS Pin=DD2-47
+Added Pin To Net: NetName=VS Pin=DD3-32
+Added Net: Name=VS
+Added Class: Name=Analog video 75Om
+Added Class: Name=Paralel RGB
+Added Differential Pair: Name=TMDS Clock
+Added Differential Pair: Name=TMDS Data0
+Added Differential Pair: Name=TMDS Data1
+Added Differential Pair: Name=TMDS Data2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C2 CL10A106MQ8NNNC
+Add Class Member: Failed to add class member : Component C3 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C4 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C5 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C6 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C7 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C8 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C9 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C10 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C11 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C12 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C13 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C14 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C15 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C16 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C17 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C18 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C19 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C20 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C21 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C22 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C23 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C24 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C25 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C26 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C27 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C28 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C29 C0402C103K4RAC7867
+Add Class Member: Failed to add class member : Component C30 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C31 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C32 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C33 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C34 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C35 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C36 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C37 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C38 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C39 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C40 C0603-10pF-16V-C0603C100F4HAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C41 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C42 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C43 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C44 C0603-10pF-16V-C0603C100F4HAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C45 C3216X5R1E336M160AC
+Added Member To Class: ClassName=Sheet1 Member=Component C46 C3216X5R1E336M160AC
+Added Member To Class: ClassName=Sheet1 Member=Component C47 C3216X5R1E336M160AC
+Added Member To Class: ClassName=Sheet1 Member=Component C48 C3216X5R1E336M160AC
+Added Member To Class: ClassName=Sheet1 Member=Component C49 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C50 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C51 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C52 CL10A106MQ8NNNC
+Add Class Member: Failed to add class member : Component C53 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C54 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C55 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C56 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C57 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C58 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C59 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C60 C0402C103K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C61 C0402C103K4RAC7867
+Add Class Member: Failed to add class member : Component C62 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C63 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C64 C0402C222K3RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C65 C0402C222K3RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C66 CGA2B1X7R1V154K050BC
+Add Class Member: Failed to add class member : Component C67 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C68 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C69 CL10A106MQ8NNNC
+Add Class Member: Failed to add class member : Component C70 C0402C104K4RAC7867
+Add Class Member: Failed to add class member : Component C71 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C72 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C73 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C74 CL10A106MQ8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component DA1 NCP161AFCS180T2G
+Added Member To Class: ClassName=Sheet1 Member=Component DA2 NCP161AFCS180T2G
+Added Member To Class: ClassName=Sheet1 Member=Component DA3 NCP161AFCS330T2G
+Added Member To Class: ClassName=Sheet1 Member=Component DA4 NCP161AFCS180T2G
+Added Member To Class: ClassName=Sheet1 Member=Component DA5 NCP161AFCS180T2G
+Added Member To Class: ClassName=Sheet1 Member=Component DA6 NCP161AFCS330T2G
+Added Member To Class: ClassName=Sheet1 Member=Component DD1 STM8L151G6U6TR
+Added Member To Class: ClassName=Sheet1 Member=Component DD2 ADV7611BSWZ-RL
+Added Member To Class: ClassName=Sheet1 Member=Component DD3 ADV7393WBCPZ-REEL
+Added Member To Class: ClassName=Sheet1 Member=Component DD4 SSM2604CPZ-REEL7
+Added Member To Class: ClassName=Sheet1 Member=Component HL1 LTST-C170GKT
+Added Member To Class: ClassName=Sheet1 Member=Component L1 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L2 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L3 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L4 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L5 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L6 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L7 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L8 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L9 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L10 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L11 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L12 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component L13 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component R1 ERJ-2RKF1002X
+Added Member To Class: ClassName=Sheet1 Member=Component R2 ERJ-2RKF5100X
+Added Member To Class: ClassName=Sheet1 Member=Component R3 ERJ-2RKF4701X
+Added Member To Class: ClassName=Sheet1 Member=Component R4 ERJ-2RKF4701X
+Added Member To Class: ClassName=Sheet1 Member=Component R5 ERJ-2RKF1003X
+Added Member To Class: ClassName=Sheet1 Member=Component R6 ERJ-2RKF1002X
+Added Member To Class: ClassName=Sheet1 Member=Component R7 ERJ-2RKF1001X
+Add Class Member: Failed to add class member : Component R8 RK73H1ETTP3903F
+Added Member To Class: ClassName=Sheet1 Member=Component R9 ERJ-2RKF5100X
+Added Member To Class: ClassName=Sheet1 Member=Component R10 ERJ-2RKF1690X
+Added Member To Class: ClassName=Sheet1 Member=Component R11 ERJ-2GEJ750X
+Added Member To Class: ClassName=Sheet1 Member=Component R12 ERJ-2RKF1000X
+Added Member To Class: ClassName=Sheet1 Member=Component R13 ERJ-2RKF1000X
+Added Member To Class: ClassName=Sheet1 Member=Component R14 ERJ-2GEJ750X
+Added Member To Class: ClassName=Sheet1 Member=Component R15 ERJ-2GEJ750X
+Added Member To Class: ClassName=Sheet1 Member=Component R16 ERJ-2RKF1000X
+Added Member To Class: ClassName=Sheet1 Member=Component R17 ERJ-2RKF1000X
+Added Member To Class: ClassName=Sheet1 Member=Component R18 ERJ-2RKF4702X
+Added Member To Class: ClassName=Sheet1 Member=Component R19 ERJ-2RKF4702X
+Added Member To Class: ClassName=Sheet1 Member=Component SB1 Jumper SB
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 FDY3000NZ
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 SM08B-GHS-TB
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 5051102091
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 685119136923
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 SM08B-GHS-TB
+Added Member To Class: ClassName=Sheet1 Member=Component ZQ1 ABM11-28.63636MHZ-D2X-T3
+Added Class: Name=HDMI

@@ -1,0 +1,13 @@
+Added Component: Designator=R8(RC04025-L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1ETTP3903F/9844485"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Резистор RK73H1ETTP3903F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND1 Pin=DD4-21
+Added Pin To Net: NetName=NetC40_2 Pin=R8-1
+Added Pin To Net: NetName=NetC44_2 Pin=R8-2
+Added Pin To Net: NetName=DGND1 Pin=XS2-P1
+Added Pin To Net: NetName=DGND1 Pin=XS2-P2
+Added Pin To Net: NetName=NetC44_2 Pin=ZQ1-3
+Added Member To Class: ClassName=Sheet1 Member=Component R8 RK73H1ETTP3903F

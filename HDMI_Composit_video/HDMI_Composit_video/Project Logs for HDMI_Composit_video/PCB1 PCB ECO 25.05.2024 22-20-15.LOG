@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SB1 Old Footprint=SB1206 New Footprint=SB0603
+Added Pin To Net: NetName=DGND1 Pin=ZQ1-3
