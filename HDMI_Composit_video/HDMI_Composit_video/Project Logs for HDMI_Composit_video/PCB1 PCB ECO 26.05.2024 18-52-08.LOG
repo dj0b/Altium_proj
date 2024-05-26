@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=DGND1 Pin=XS2-1
+Removed Pin From Net: NetName=TMDS Data2_P Pin=XS2-2
+Removed Pin From Net: NetName=TMDS Data2_N Pin=XS2-3
+Removed Pin From Net: NetName=DGND1 Pin=XS2-4
+Removed Pin From Net: NetName=TMDS Data1_P Pin=XS2-5
+Removed Pin From Net: NetName=TMDS Data1_N Pin=XS2-6
+Removed Pin From Net: NetName=DGND1 Pin=XS2-7
+Removed Pin From Net: NetName=TMDS Data0_P Pin=XS2-8
+Removed Pin From Net: NetName=TMDS Data0_N Pin=XS2-9
+Removed Pin From Net: NetName=DGND1 Pin=XS2-10
+Removed Pin From Net: NetName=TMDS Clock_P Pin=XS2-11
+Removed Pin From Net: NetName=TMDS Clock_N Pin=XS2-12
+Removed Pin From Net: NetName=DGND1 Pin=XS2-13
+Removed Pin From Net: NetName=CEC Pin=XS2-14
+Removed Pin From Net: NetName=+5V Power Pin=XS2-18
+Removed Pin From Net: NetName=Hot Plug Detect / HEAC- Pin=XS2-19
+Removed Pin From Net: NetName=DGND1 Pin=XS2-20
+Removed Pin From Net: NetName=DGND1 Pin=XS2-P1
+Removed Pin From Net: NetName=DGND1 Pin=XS2-P2
+Removed Member From Class: ClassName=Sheet1 Member=XS4
+Change Component Designator: OldDesignator=XS3 NewDesignator=XS2
+Change Component Designator: OldDesignator=XS4 NewDesignator=XS3
+Added Member To Class: ClassName=Paralel RGB Member=Wire HS
+Added Member To Class: ClassName=Paralel RGB Member=Wire LLC
+Added Member To Class: ClassName=Paralel RGB Member=Wire VS

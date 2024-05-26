@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=+5V_in Pin=DA1-A1
+Removed Pin From Net: NetName=+1.8V_PVDD_1 Pin=DA1-A2
+Removed Pin From Net: NetName=+5V_in Pin=DA1-B1
+Removed Pin From Net: NetName=DGND1 Pin=DA1-B2
+Removed Pin From Net: NetName=+5V_in Pin=DA2-A1
+Removed Pin From Net: NetName=+1.8V_ LVR_1 Pin=DA2-A2
+Removed Pin From Net: NetName=+5V_in Pin=DA2-B1
+Removed Pin From Net: NetName=DGND1 Pin=DA2-B2
+Removed Pin From Net: NetName=+5V_in Pin=DA3-A1
+Removed Pin From Net: NetName=+3.3V_LVR_1 Pin=DA3-A2
+Removed Pin From Net: NetName=+5V_in Pin=DA3-B1
+Removed Pin From Net: NetName=DGND1 Pin=DA3-B2
+Removed Pin From Net: NetName=+5V_in Pin=DA4-A1
+Removed Pin From Net: NetName=+1.8V_ PVDD_2 Pin=DA4-A2
+Removed Pin From Net: NetName=+5V_in Pin=DA4-B1
+Removed Pin From Net: NetName=DGND1 Pin=DA4-B2
+Removed Pin From Net: NetName=+5V_in Pin=DA5-A1
+Removed Pin From Net: NetName=+1.8V_ LVR_2 Pin=DA5-A2
+Removed Pin From Net: NetName=+5V_in Pin=DA5-B1
+Removed Pin From Net: NetName=DGND1 Pin=DA5-B2
+Removed Pin From Net: NetName=+5V_in Pin=DA6-A1
+Removed Pin From Net: NetName=+3.3V_LVR_A Pin=DA6-A2
+Removed Pin From Net: NetName=+5V_in Pin=DA6-B1
+Removed Pin From Net: NetName=DGND1 Pin=DA6-B2
+Removed Pin From Net: NetName=+1.8V_ LVR_1 Pin=L7-2
+Change Component Footprint: Designator=DA1 Old Footprint=WLCSP4_P6XP6_ONS New Footprint=XDFN4_711AJ_ONS_OSI
+Change Component Footprint: Designator=DA2 Old Footprint=WLCSP4_P6XP6_ONS New Footprint=XDFN4_711AJ_ONS_OSI
+Change Component Footprint: Designator=DA3 Old Footprint=WLCSP4_P6XP6_ONS New Footprint=XDFN4_711AJ_ONS_OSI
+Change Component Footprint: Designator=DA4 Old Footprint=WLCSP4_P6XP6_ONS New Footprint=XDFN4_711AJ_ONS_OSI
+Change Component Footprint: Designator=DA5 Old Footprint=WLCSP4_P6XP6_ONS New Footprint=XDFN4_711AJ_ONS_OSI
+Change Component Footprint: Designator=DA6 Old Footprint=WLCSP4_P6XP6_ONS New Footprint=XDFN4_711AJ_ONS_OSI
+Change Component Comment : Designator=DA1 Old Comment=NCP161AFCS180T2G New Comment=NCP161AMX180TBG
+Change Component Comment : Designator=DA2 Old Comment=NCP161AFCS180T2G New Comment=NCP161AMX180TBG
+Change Component Comment : Designator=DA5 Old Comment=NCP161AFCS180T2G New Comment=NCP161AMX180TBG
+Change Component Comment : Designator=DA4 Old Comment=NCP161AFCS180T2G New Comment=NCP161AMX330TBG
+Change Component Comment : Designator=DA3 Old Comment=NCP161AFCS330T2G New Comment=NCP161AMX180TBG
+Change Component Comment : Designator=DA6 Old Comment=NCP161AFCS330T2G New Comment=NCP161AMX180TBG
+Change component parameters: Designator = "DA1" ("DA1"); Footprint = "WLCSP4_P6XP6_ONS"; UniqueID = "\THYXDKSF" ("\THYXDKSF")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX180TBG/5257724?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBooA4AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX180TBG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "WLCSP4_P6XP6_ONS"; UniqueID = "\GICWSFRY" ("\GICWSFRY")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX180TBG/5257724?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBooA4AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX180TBG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA3" ("DA3"); Footprint = "WLCSP4_P6XP6_ONS"; UniqueID = "\HFUEPYWQ" ("\HFUEPYWQ")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX180TBG/5257724?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBooA4AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX180TBG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA4" ("DA4"); Footprint = "WLCSP4_P6XP6_ONS"; UniqueID = "\XPZBYMER" ("\XPZBYMER")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX330TBG/5257729?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBoGZ8AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX330TBG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA5" ("DA5"); Footprint = "WLCSP4_P6XP6_ONS"; UniqueID = "\CKMIMUJD" ("\CKMIMUJD")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX180TBG/5257724?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBooA4AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX180TBG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA6" ("DA6"); Footprint = "WLCSP4_P6XP6_ONS"; UniqueID = "\BEFABYWR" ("\BEFABYWR")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX180TBG/5257724?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBooA4AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX180TBG"; VariantName = "[No Variations]"
+Added Component: Designator=C75(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=C76(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R8BB105/2833610?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgViwA4AhYgRkTxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = "https://www.mouser.com/ProductDetail/YAGEO/CC0603KRX5R8BB105?qs=BKNoF%2F0xMNuZVooGAHMQbg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Конденсатор CC0603KRX5R8BB105"; VariantName = "[No Variations]"
+Added Component: Designator=DA7(XDFN4_711AJ_ONS_OSI)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/onsemi/NCP161AMX330TBG/5257729?s=N4IgTCBcDaIHIGEAKBGAbCgggWQBoGZ8AGAFQCEBxEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = "Мікросхема NCP161AMX330TBG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND1 Pin=C75-1
+Added Pin To Net: NetName=+5V_in Pin=C75-2
+Added Pin To Net: NetName=DGND1 Pin=C76-1
+Added Pin To Net: NetName=DGND1 Pin=DA1-2
+Added Pin To Net: NetName=+5V_in Pin=DA1-3
+Added Pin To Net: NetName=+5V_in Pin=DA1-4
+Added Pin To Net: NetName=DGND1 Pin=DA1-5
+Added Pin To Net: NetName=+1.8V_PVDD_1 Pin=DA2-1
+Added Pin To Net: NetName=DGND1 Pin=DA2-2
+Added Pin To Net: NetName=+5V_in Pin=DA2-3
+Added Pin To Net: NetName=+5V_in Pin=DA2-4
+Added Pin To Net: NetName=DGND1 Pin=DA2-5
+Added Pin To Net: NetName=+1.8V_ LVR_1 Pin=DA3-1
+Added Pin To Net: NetName=DGND1 Pin=DA3-2
+Added Pin To Net: NetName=+5V_in Pin=DA3-3
+Added Pin To Net: NetName=+5V_in Pin=DA3-4
+Added Pin To Net: NetName=DGND1 Pin=DA3-5
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=DA4-1
+Added Pin To Net: NetName=DGND1 Pin=DA4-2
+Added Pin To Net: NetName=+5V_in Pin=DA4-3
+Added Pin To Net: NetName=+5V_in Pin=DA4-4
+Added Pin To Net: NetName=DGND1 Pin=DA4-5
+Added Pin To Net: NetName=+1.8V_ PVDD_2 Pin=DA5-1
+Added Pin To Net: NetName=DGND1 Pin=DA5-2
+Added Pin To Net: NetName=+5V_in Pin=DA5-3
+Added Pin To Net: NetName=+5V_in Pin=DA5-4
+Added Pin To Net: NetName=DGND1 Pin=DA5-5
+Added Pin To Net: NetName=+1.8V_ LVR_2 Pin=DA6-1
+Added Pin To Net: NetName=DGND1 Pin=DA6-2
+Added Pin To Net: NetName=+5V_in Pin=DA6-3
+Added Pin To Net: NetName=+5V_in Pin=DA6-4
+Added Pin To Net: NetName=DGND1 Pin=DA6-5
+Added Pin To Net: NetName=+3.3V_LVR_A Pin=DA7-1
+Added Pin To Net: NetName=DGND1 Pin=DA7-2
+Added Pin To Net: NetName=+5V_in Pin=DA7-3
+Added Pin To Net: NetName=+5V_in Pin=DA7-4
+Added Pin To Net: NetName=DGND1 Pin=DA7-5
+Added Pin To Net: NetName=+1.8V_ LVR_3 Pin=C76-2
+Added Pin To Net: NetName=+1.8V_ LVR_3 Pin=DA1-1
+Added Pin To Net: NetName=+1.8V_ LVR_3 Pin=L7-2
+Added Net: Name=+1.8V_ LVR_3
+Added Member To Class: ClassName=Sheet1 Member=Component C33 C0402C104K4RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component C75 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component C76 CC0603KRX5R8BB105
+Added Member To Class: ClassName=Sheet1 Member=Component DA7 NCP161AMX330TBG

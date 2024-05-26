@@ -117,6 +117,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWDBBTML
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HDMI_Composit_video\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1141,10 +1145,16 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Schlib2.SchLib
-ComponentDesignItemID0=ABM11-28.63636MHZ-D2X-T3
-ComponentSymbolReference0=ABM11-28.63636MHZ-D2X-T3
+ComponentDesignItemID0=NCP161AFCS180T2G
+ComponentSymbolReference0=NCP161AFCS180T2G
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Schlib2.SchLib
+ComponentDesignItemID1=NCP161AFCS330T2G
+ComponentSymbolReference1=NCP161AFCS330T2G
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1177,7 +1187,7 @@ ParameterUpdate7=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=FP-ABM11-MFG
+ModelName0=WLCSP4_P6XP6_ONS
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]

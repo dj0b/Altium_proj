@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetDD3_12 Pin=R12-1
+Removed Pin From Net: NetName=+3.3V_LVR_1 Pin=R12-2
+Removed Pin From Net: NetName=NetDD3_12 Pin=R13-1
+Removed Pin From Net: NetName=DGND1 Pin=R13-2
+Removed Member From Class: ClassName=Sheet1 Member=R13
+Change Component Comment : Designator=R12 Old Comment=ERJ-2RKF1000X New Comment=ERJ-2RKF1002X
+Change Component Designator: OldDesignator=C33 NewDesignator=C65
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RC04025-L"; UniqueID = "\QTHDMERH" ("\QTHDMERH")
+Change component parameters (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1002X/192073"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Резистор ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(SB0603)
+Add component (AddParameter): Name = "Supplier link 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(1206-GND_Tie)
+Added Pin To Net: NetName=+3.3V_LVR_1 Pin=R12-1
+Added Pin To Net: NetName=NetDD3_12 Pin=R12-2
+Added Pin To Net: NetName=DGND1 Pin=SB2-1
+Added Pin To Net: NetName=NetDD3_12 Pin=SB2-2
+Added Pin To Net: NetName=DGND1 Pin=T1-1
+Added Pin To Net: NetName=AGND Pin=T1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C65 C0402C222K3RAC7867
+Added Member To Class: ClassName=Sheet1 Member=Component SB2 Jumper SB
+Added Member To Class: ClassName=Sheet1 Member=Component T1 GND_tie
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 685119136923
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 SM08B-GHS-TB

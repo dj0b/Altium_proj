@@ -1,0 +1,22 @@
+Protel Design System Design Rule Check
+PCB File : D:\Project&soft\Altium\Altium_proj\HDMI_Composit_video\HDMI_Composit_video\PCB1.PcbDoc
+Date     : 26.05.2024
+Time     : 20:07:54
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InDifferentialPairClass('HDMI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=50ps) (InNetClass('Paralel RGB'))
+   Violation between Matched Net Lengths: Between Net P11 And Net VS Delay:112.926ps is not within 50ps tolerance of Delay:169.517ps (6.591ps smaller) 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Delay Tolerance=150ps) (InDifferentialPairClass('HDMI'))
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+Time Elapsed        : 00:00:00
