@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+3.3V_LVR_1 Pin=R12-1
+Added Pin To Net: NetName=VDD_IO Pin=R12-1
+Added Member To Class: ClassName=Sheet1 Member=Component DA5 NCP161AMX180TBG

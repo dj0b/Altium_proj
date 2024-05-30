@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DVDDIO1 Pin=VT1-5
+Added Pin To Net: NetName=TVDD1 Pin=VT1-5
