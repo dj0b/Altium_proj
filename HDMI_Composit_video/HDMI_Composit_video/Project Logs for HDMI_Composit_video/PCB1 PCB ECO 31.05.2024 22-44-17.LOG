@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=UART1_TX Pin=XS1-1
+Removed Pin From Net: NetName=UART1_RX Pin=XS1-2
+Removed Pin From Net: NetName=SWIM Pin=XS1-3
+Removed Pin From Net: NetName=SR_reset Pin=XS1-4
+Added Pin To Net: NetName=SWIM Pin=XS1-1
+Added Pin To Net: NetName=SR_reset Pin=XS1-2
+Added Pin To Net: NetName=UART1_TX Pin=XS1-3
+Added Pin To Net: NetName=UART1_RX Pin=XS1-4

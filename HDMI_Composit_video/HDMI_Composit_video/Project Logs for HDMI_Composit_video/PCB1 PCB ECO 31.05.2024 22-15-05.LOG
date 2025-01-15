@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CV_out Pin=XS3-2
+Removed Pin From Net: NetName=5V_out Pin=XS3-4
+Added Pin To Net: NetName=5V_out Pin=XS3-2
+Added Pin To Net: NetName=CV_out Pin=XS3-4

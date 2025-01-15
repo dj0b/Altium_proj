@@ -1,0 +1,18 @@
+Added Component: Designator=XS1(SM04B-GHS-TB)
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм SM04B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=XS5(SM04B-GHS-TB)
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм SM04B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND1 Pin=XS1-1
+Added Pin To Net: NetName=SWIM Pin=XS1-2
+Added Pin To Net: NetName=SR_reset Pin=XS1-3
+Added Pin To Net: NetName=MCU_VDD Pin=XS1-4
+Added Pin To Net: NetName=DGND1 Pin=XS1-M
+Added Pin To Net: NetName=DGND1 Pin=XS1-M
+Added Pin To Net: NetName=DGND1 Pin=XS5-1
+Added Pin To Net: NetName=UART1_TX Pin=XS5-2
+Added Pin To Net: NetName=UART1_RX Pin=XS5-3
+Added Pin To Net: NetName=MCU_VDD Pin=XS5-4
+Added Pin To Net: NetName=DGND1 Pin=XS5-M
+Added Pin To Net: NetName=DGND1 Pin=XS5-M
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 SM04B-GHS-TB
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 SM04B-GHS-TB

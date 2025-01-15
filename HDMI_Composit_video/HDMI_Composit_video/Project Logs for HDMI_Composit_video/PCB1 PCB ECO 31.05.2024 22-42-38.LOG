@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=DGND1 Pin=XS1-1
+Removed Pin From Net: NetName=DGND1 Pin=XS1-2
+Removed Pin From Net: NetName=+5V_in Pin=XS1-3
+Removed Pin From Net: NetName=+5V_in Pin=XS1-4
+Removed Pin From Net: NetName=UART1_TX Pin=XS1-5
+Removed Pin From Net: NetName=UART1_RX Pin=XS1-6
+Removed Pin From Net: NetName=SWIM Pin=XS1-7
+Removed Pin From Net: NetName=SR_reset Pin=XS1-8
+Change Component Footprint: Designator=XS1 Old Footprint=SM08B-GHS-TB New Footprint=SM04B-GHS-TB
+Change Component Comment : Designator=XS1 Old Comment=SM08B-GHS-TB New Comment=SM04B-GHS-TB
+Change component parameters: Designator = "XS1" ("XS1"); Footprint = "SM08B-GHS-TB"; UniqueID = "\GMTPLAPS" ("\GMTPLAPS")
+Change component parameters (AddParameter): Name = "Назва за КД"; Value = "Роз'єм SM04B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=XS4(SM04B-GHS-TB)
+Add component (AddParameter): Name = "Назва за КД"; Value = "Роз'єм SM04B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART1_TX Pin=XS1-1
+Added Pin To Net: NetName=UART1_RX Pin=XS1-2
+Added Pin To Net: NetName=SWIM Pin=XS1-3
+Added Pin To Net: NetName=SR_reset Pin=XS1-4
+Added Pin To Net: NetName=DGND1 Pin=XS4-1
+Added Pin To Net: NetName=DGND1 Pin=XS4-2
+Added Pin To Net: NetName=+5V_in Pin=XS4-3
+Added Pin To Net: NetName=+5V_in Pin=XS4-4
+Added Pin To Net: NetName=DGND1 Pin=XS4-M
+Added Pin To Net: NetName=DGND1 Pin=XS4-M
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 SM04B-GHS-TB

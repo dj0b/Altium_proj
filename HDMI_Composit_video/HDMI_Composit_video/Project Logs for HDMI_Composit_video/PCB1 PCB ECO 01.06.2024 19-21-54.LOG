@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DGND1 Pin=T1-1
+Removed Pin From Net: NetName=AGND Pin=T1-2
+Removed Member From Class: ClassName=Sheet1 Member=T1
+Added Component: Designator=L14(SC0603_L)
+Add component (AddParameter): Name = "Supplier link 1"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/BBHV00160808601Y00/10508599?_gl=1*r82f7z*_up*MQ..&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIWUi_VlukfZKLeJup5zjw6K0pO7YUGtIszURMuY4osn_knpUlntF8aAvaFEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier link 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600 Ohms 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назва за КД"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=L14-1
+Added Pin To Net: NetName=DGND1 Pin=L14-2
+Added Member To Class: ClassName=Sheet1 Member=Component L14 ferrite bead
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 SM04B-GHS-TB
