@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Dot1 Pin=Q1-4
+Removed Pin From Net: NetName=L Pin=Q1-6
+Removed Pin From Net: NetName=Dot2 Pin=Q2-4
+Removed Pin From Net: NetName=L Pin=Q2-6
+Removed Pin From Net: NetName=A Pin=Q8-4
+Removed Pin From Net: NetName=N Pin=Q8-6
+Removed Pin From Net: NetName=B Pin=Q9-4
+Removed Pin From Net: NetName=N Pin=Q9-6
+Removed Pin From Net: NetName=C Pin=Q10-4
+Removed Pin From Net: NetName=D Pin=Q11-4
+Removed Pin From Net: NetName=E Pin=Q12-4
+Removed Pin From Net: NetName=F Pin=Q13-4
+Removed Pin From Net: NetName=G Pin=Q14-4
+Added Pin To Net: NetName=G Pin=Q1-4
+Added Pin To Net: NetName=N Pin=Q1-6
+Added Pin To Net: NetName=F Pin=Q2-4
+Added Pin To Net: NetName=N Pin=Q2-6
+Added Pin To Net: NetName=Dot1 Pin=Q8-4
+Added Pin To Net: NetName=L Pin=Q8-6
+Added Pin To Net: NetName=Dot2 Pin=Q9-4
+Added Pin To Net: NetName=L Pin=Q9-6
+Added Pin To Net: NetName=A Pin=Q10-4
+Added Pin To Net: NetName=B Pin=Q11-4
+Added Pin To Net: NetName=C Pin=Q12-4
+Added Pin To Net: NetName=D Pin=Q13-4
+Added Pin To Net: NetName=E Pin=Q14-4
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=NetU1_8
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=NetU1_9
+Change Net Name : Old Net Name=NetJ1_9 New Net Name=NetU1_1
+Change Net Name : Old Net Name=NetJ2_9 New Net Name=NetU2_13
