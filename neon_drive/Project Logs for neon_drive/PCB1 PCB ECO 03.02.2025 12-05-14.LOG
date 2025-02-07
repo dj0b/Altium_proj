@@ -1,0 +1,31 @@
+Change Net Name : Old Net Name=1 New Net Name=HS 1
+Change Net Name : Old Net Name=3 New Net Name=HS 3
+Change Net Name : Old Net Name=4 New Net Name=HS 4
+Change Net Name : Old Net Name=5 New Net Name=HS 5
+Change Net Name : Old Net Name=A New Net Name=HS A
+Change Net Name : Old Net Name=B New Net Name=HS B
+Change Net Name : Old Net Name=C New Net Name=HS C
+Change Net Name : Old Net Name=D New Net Name=HS D
+Change Net Name : Old Net Name=Dot1 New Net Name=HS Dot1
+Change Net Name : Old Net Name=Dot2 New Net Name=HS Dot2
+Change Net Name : Old Net Name=E New Net Name=HS E
+Change Net Name : Old Net Name=F New Net Name=HS F
+Change Net Name : Old Net Name=G New Net Name=HS G
+Change Net Name : Old Net Name=NetR1_1 New Net Name=LS 1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=LS 2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=LS 3
+Change Net Name : Old Net Name=NetR4_1 New Net Name=LS 4
+Change Net Name : Old Net Name=NetR5_1 New Net Name=LS 5
+Change Net Name : Old Net Name=NetR6_1 New Net Name=HL Dot1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=HL Dot2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=HL A
+Change Net Name : Old Net Name=NetR9_2 New Net Name=HL B
+Change Net Name : Old Net Name=NetR10_2 New Net Name=HL C
+Change Net Name : Old Net Name=NetR11_2 New Net Name=HL D
+Change Net Name : Old Net Name=NetR13_2 New Net Name=HL F
+Change Net Name : Old Net Name=NetR14_1 New Net Name=HL G
+Added Pin To Net: NetName=HS 2 Pin=J3-7
+Added Pin To Net: NetName=HS 2 Pin=Q4-4
+Added Pin To Net: NetName=HS 2 Pin=R12-2
+Added Pin To Net: NetName=HS 2 Pin=U2-10
+Added Net: Name=HS 2
