@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=1 Pin=XP1-1
+Removed Pin From Net: NetName=2 Pin=XP1-2
+Removed Pin From Net: NetName=3 Pin=XP1-3
+Removed Pin From Net: NetName=4 Pin=XP1-4
+Removed Pin From Net: NetName=5 Pin=XP1-5
+Change Component Designator: OldDesignator=XP1 NewDesignator=*
+Added Pin To Net: NetName=5 Pin=*-1
+Added Pin To Net: NetName=4 Pin=*-2
+Added Pin To Net: NetName=3 Pin=*-4
+Added Pin To Net: NetName=2 Pin=*-7
+Added Pin To Net: NetName=1 Pin=*-8

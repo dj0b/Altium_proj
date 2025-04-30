@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=N Pin=J?-9
+Removed Member From Class: ClassName=Sheet2 Member=J?
+Change Component Footprint: Designator=J? Old Footprint=FP-3220-10-0100-00-MFG New Footprint=FP-3220-10-0100-00-MFG
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=N Pin=J1-9
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ?_6 New Net Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-8
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-8
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=U2-13
+Added Net: Name=NetJ1_5
+Added Member To Class: ClassName=Sheet2 Member=Component J1 3220-10-0100-00
